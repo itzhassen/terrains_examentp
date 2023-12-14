@@ -1,0 +1,42 @@
+{
+  "terrains": [
+    {
+      "id": 2,
+      "title": "Terrain Houmt Souk",
+      "description": "Terrain avec sol riche + arbres d'oranges",
+      "photo": "path/to/photo2.jpg",
+      "piquets": [
+        {
+          "longitude": 10.8674,
+          "latitude": 33.8674
+        },
+        {
+          "longitude":10.88150,
+          "latitude":  33.87755
+        }
+      ]
+
+
+    },
+    {
+      "id": 3,
+      "title": "Terrain 3",
+      "description": "Description du terrain 3",
+      "photo": "path/to/photo3.jpg",
+      "piquets": [
+        {
+          "longitude": 10.1516,
+          "latitude": 34.7446
+        },
+        {
+          "longitude": 10.8672,
+          "latitude": 35.8617
+        },
+        {
+          "longitude": 11.4924,
+          "latitude": 36.8065
+        }
+      ]
+    }
+  ]
+}
